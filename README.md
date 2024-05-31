@@ -6,7 +6,7 @@ FishLog Web Application
 Overview
 -------------
 
-FishLog is a web application that allows users to log details about their fish catches. The application supports creating, reading, updating, and deleting (CRUD) records of fish catches, including details like species, weight, length, date caught, and a picture of the catch.
+FishLog is a web application that allows users to log details about their fish catches. The application supports creating, reading, updating, and deleting (CRUD) records of fish catches, including details like species, weight, length, and date caught.
 
 Features :
 Log fish catch details (species, weight, length, date caught, and picture).
